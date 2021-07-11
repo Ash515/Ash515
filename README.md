@@ -37,8 +37,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 - 🔭 I’m currently working on **TeeDee Application**
 - 🌱 I’m currently learning **B.Tech in Information Technology.**
 - 👯 I’m looking to collaborate on **Python Development**
-- 🤔 I’m looking for help with **Data Structures and Algorithms**, **Python Development**, **JavaScript Development**, **Digital Marketing**.
-- 💬 Ask me about **Python Full Stack Development** and **JavaScript Full Stack Development**.
+- 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**, **BlockChain**.
 - 📫 How to reach me: Email - theyountech515@gmail.com 
 - 😄 Pronouns: He/Him
 
