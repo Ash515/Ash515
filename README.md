@@ -1,6 +1,6 @@
 ### Hi there 👋
 "𝐀 𝐑𝐞𝐧𝐚𝐢𝐬𝐬𝐚𝐧𝐜𝐞 𝐒𝐨𝐮𝐥" 🌟<br>
-Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like DevOps and Full Stack Python and JavaScript Development and In non-technical background, he's having hands-on experience in Digital Marketing. He always has a keen interest to learn something new every day. A good dedicated developer always maintain his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing Skills.
+Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **DevOps** and **Full Stack Python** and **JavaScript Development** and In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest to learn something new every day. A good dedicated developer always maintain his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing Skills.
 <br>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Ash515" alt="harshcsper" /> 
