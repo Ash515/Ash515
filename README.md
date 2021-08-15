@@ -19,6 +19,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/postgres%20-%231572B6.svg?&style=for-the-badge&logo=postgres&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jenkins%20-%231572B6.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;
