@@ -3,7 +3,7 @@
 Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **DevOps** and **Full Stack Python** and **JavaScript Development** and In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest to learn something new every day. A good dedicated developer always maintain his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing Skills.
 <br>
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=Ash515" alt="harshcsper" /> 
+ <img src="https://komarev.com/ghpvc/?username=Ash515" alt="Ashwin Kumar" /> 
 </p>
 
 
@@ -33,9 +33,9 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ash515&layout=compact&hide=html&theme=jolly" alt="Ash515" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-
-
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/ username=Ash515&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" />
+</p>
 - 🌱 I’m currently learning **B.Tech in Information Technology.**
 - 🔭 I’m currently working on **TeeDee Application**
 - 👯 I’m looking to collaborate on **Blockchain and DevOps projects**
