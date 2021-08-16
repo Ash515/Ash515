@@ -34,9 +34,6 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ash515&layout=compact&hide=html&theme=jolly" alt="Ash515" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/ username=Ash515&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" />
-</p>
 
 - 🌱 I’m currently learning **B.Tech in Information Technology.**
 - 🔭 I’m currently working on **TeeDee Application**
