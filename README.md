@@ -33,9 +33,10 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 
 <h2 align="center"> Github Statistics </h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ash515&layout=compact&hide=html&theme=jolly" alt="Ash515" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=Ash515&layout=compact&hide=html&theme=jolly" alt="Ash515" />| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash515) |
+| --- | --- |
+| ![Ashwin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ash515) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
 - 🌱 I’m currently learning **B.Tech in Information Technology.**
 - 🔭 I’m currently working on **TeeDee Application**
