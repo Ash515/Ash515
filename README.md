@@ -2,6 +2,8 @@
 "𝐀 𝐑𝐞𝐧𝐚𝐢𝐬𝐬𝐚𝐧𝐜𝐞 𝐒𝐨𝐮𝐥" 🌟<br>
 Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **DevOps** and **Full Stack Python** and **JavaScript Development** and In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest to learn something new every day. A good dedicated developer always maintain his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing Skills.
 <br>
+
+[![Praveen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ash515&theme=xcode)](https://git.io/Ash515)
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Ash515" alt="Ashwin Kumar" /> 
 </p>
@@ -41,6 +43,11 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 - 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**, **BlockChain**.
 - 🛠 Real Time Projects - **25**
 - 📫 How to reach me: Email - theyountech515@gmail.com 
+
+
+## Connect with Me 🤝🏻
+
+[![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://ashwinkumar.glitch.me/) [![Blog](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/bl.svg)](https://theyoungtech.medium.com/) [![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/ashwinkumarramasamy/) [![Twitter](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tw.svg)](https://twitter.com/RamasamyAshwin) [![YouTube](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/yt.svg)](https://www.youtube.com/channel/UCt1znbKazq-n02b68tT6lNA) [![Stack Overflow](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/so.svg)](https://stackoverflow.com/users/462627/praveen-kumar-purushothaman) [![Stack Exchange](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/se.svg)](https://stackexchange.com/users/210807/praveen-kumar) [![Microsoft MVP](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ms.svg)](https://mvp.microsoft.com/en-us/PublicProfile/5001822) [![GitHub](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gh.svg)](https://github.com/praveenscience) [![GitLab](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gl.svg)](https://gitlab.com/praveenscience) [![PayPal](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/pp.svg)](https://www.paypal.me/PraveenKumar) [![HackerNews](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/hn.svg)](https://news.ycombinator.com/user?id=praveenscience) [![Reddit](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/r.svg)](https://reddit.com/u/praveenscience/) [![Facebook](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/fb.svg)](https://www.facebook.com/praveenscience) [![Instagram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ig.svg)](https://instagram.com/praveenscience) [![HackHands](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/hh.svg)](http://web.archive.org/web/20190116000030if_/https://hackhands.com/praveen/) [![Telegram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tg.svg)](https://t.me/praveenscience) [![WhatsApp](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/wa.svg)](https://wa.me/)
 
 
 <h2 align="center">Reach out to me on</h2>
