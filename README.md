@@ -10,7 +10,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 - 🛠 Real Time Projects - **25**
 - 📫 How to reach me: Email - theyountech515@gmail.com 
 
-[![Praveen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ash515&theme=xcode)](https://git.io/Ash515)
+[![Ashwin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ash515&theme=xcode)](https://git.io/Ash515)
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Ash515" alt="Ashwin Kumar" /> 
 </p>
