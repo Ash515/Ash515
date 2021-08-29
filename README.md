@@ -3,6 +3,13 @@
 Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **DevOps** and **Full Stack Python** and **JavaScript Development** and In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest to learn something new every day. A good dedicated developer always maintain his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing Skills.
 <br>
 
+- 🌱 I’m currently learning **B.Tech in Information Technology.**
+- 🔭 I’m currently working on **TeeDee Application**
+- 👯 I’m looking to collaborate on **DevOps projects**
+- 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**.
+- 🛠 Real Time Projects - **25**
+- 📫 How to reach me: Email - theyountech515@gmail.com 
+
 [![Praveen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ash515&theme=xcode)](https://git.io/Ash515)
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Ash515" alt="Ashwin Kumar" /> 
@@ -38,19 +45,9 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 | --- | --- |
 | ![Ashwin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ash515) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-- 🌱 I’m currently learning **B.Tech in Information Technology.**
-- 🔭 I’m currently working on **TeeDee Application**
-- 👯 I’m looking to collaborate on **DevOps projects**
-- 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**, **BlockChain**.
-- 🛠 Real Time Projects - **25**
-- 📫 How to reach me: Email - theyountech515@gmail.com 
-
-
 ## Connect with Me 🤝🏻
 
-
-<h2 align="center">Reach out to me on</h2>
- <p align="center"><br/>
+<p align="center"><br/>
    <a href="https://www.linkedin.com/in/ashwinkumarramasamy/">
     <img src="https://img.shields.io/badge/linkedin-Ashwin-blue">
   </a>
