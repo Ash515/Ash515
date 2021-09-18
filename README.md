@@ -7,7 +7,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 - 🔭 I’m currently working on **TeeDee Application**
 - 👯 I’m looking to collaborate on **DevOps projects**
 - 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**.
-- 🛠 Real Time Projects - **25**
+- 🛠 Real Time Projects - **26**
 - 📫 How to reach me: Email - theyountech515@gmail.com 
 
 [![Ashwin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ash515&theme=xcode)](https://git.io/Ash515)
