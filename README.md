@@ -4,7 +4,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 <br>
 
 - 🌱 I’m currently learning **B.Tech in Information Technology.**
-- 🔭 I’m currently working on **ERP Application**
+- 🔭 I’m currently working on **CLI's**
 - 👯 I’m looking to collaborate on **DevOps projects**
 - 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**.
 - 🛠 Real Time Projects - **26**
