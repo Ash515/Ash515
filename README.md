@@ -51,7 +51,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
    <a href="https://www.linkedin.com/in/ashwinkumarramasamy/">
     <img src="https://img.shields.io/badge/linkedin-Ashwin-blue">
   </a>
-  <a href="https://ashwinkumar.glitch.me/">
+  <a href="https://ashwinkumarramaswamy.netlify.app">
     <img src="https://img.shields.io/badge/Website-Ashwin Kumar R_-red">
   </a>
  <a href="https://theyoungtech.medium.com/">
