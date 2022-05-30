@@ -3,7 +3,7 @@
 Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **DevOps** and **Python Development** and **JavaScript Development** and In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest to learn something new every day. A good dedicated developer always maintain his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing Skills.
 <br>
 
-- 🌱 I’m currently learning **B.Tech in Information Technology.**
+- 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
 - 🔭 I’m currently working on **Healthcare Technology**
 - 👯 I’m looking to collaborate on **DevOps projects**
 - 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**.
