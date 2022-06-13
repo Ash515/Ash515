@@ -21,14 +21,15 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=yellow" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C Lang%20-%231572B6.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp; 
- <img src="https://img.shields.io/badge/C++ Lang%20-%231572B6.svg?&style=for-the-badge&logo=CPP&logoColor=white" />&nbsp;&nbsp; 
+ <img src="https://img.shields.io/badge/C++ Lang%20-%231572B6.svg?&style=for-the-badge&logo=C++&logoColor=white" />&nbsp;&nbsp; 
  <img src="https://img.shields.io/badge/C Sharp%20-%231572B6.svg?&style=for-the-badge&logo=CSharp&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react js%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vue js%20-%231572B6.svg?&style=for-the-badge&logo=Vue&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ember js%20-%2300D9FF.svg?&style=for-the-badge&logo=ember.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vue js%20-%231572B6.svg?&style=for-the-badge&logo=Vue.js&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/postgres%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
