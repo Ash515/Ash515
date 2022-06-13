@@ -18,7 +18,8 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 
 <h2 align="center">Technology Stack</h2>
 <p align="left">
- **Programming languages**   <br>
+ 
+ Programming Languages<br>
  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=yellow" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/C Lang%20-%231572B6.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp; 
@@ -34,7 +35,9 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
   <img src="https://img.shields.io/badge/Vue js%20-%231572B6.svg?&style=for-the-badge&logo=Vue.js&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
  
- **Databases** <br>
+ **Databases languages and Platforms** <br>
+  <img src="https://img.shields.io/badge/SQL%20-%231572B6.svg?&style=for-the-badge&logo=Sql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GraphQl%20-%231572B6.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgres%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
@@ -44,9 +47,9 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
  <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jenkins%20-%231572B6.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GraphQl%20-%231572B6.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Postman%20-%231572B6.svg?&style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
   
 </p>
 
