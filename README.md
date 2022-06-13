@@ -1,4 +1,4 @@
-## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 "𝐀 𝐑𝐞𝐧𝐚𝐢𝐬𝐬𝐚𝐧𝐜𝐞 𝐒𝐨𝐮𝐥" 🌟<br>
 Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **DevOps** and **Python Development** and **JavaScript Development** and In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest to learn something new every day. A good dedicated developer always maintain his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing Skills.
 <br>
@@ -34,6 +34,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
   <img src="https://img.shields.io/badge/ember js%20-%2300D9FF.svg?&style=for-the-badge&logo=ember.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vue js%20-%231572B6.svg?&style=for-the-badge&logo=Vue.js&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ 
  
  **Databases languages and Platforms** <br>
   <img src="https://img.shields.io/badge/SQL%20-%231572B6.svg?&style=for-the-badge&logo=Sql&logoColor=white" />&nbsp;&nbsp;
