@@ -19,6 +19,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 <h2 align="center">Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=yellow" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++%20-%231572B6.svg?&style=for-the-badge&logo=Cpp&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
