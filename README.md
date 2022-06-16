@@ -16,7 +16,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 </p>
 
 
-<h2 align="center">**Technologies**</h2>
+<h2 align="center"> Technologies </h2>
 <p align="left">
  
  Programming Languages<br>
