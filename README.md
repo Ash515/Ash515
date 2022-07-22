@@ -26,6 +26,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
  <img src="https://img.shields.io/badge/C++ Lang%20-%231572B6.svg?&style=for-the-badge&logo=C++&logoColor=white" />&nbsp;&nbsp; 
  <img src="https://img.shields.io/badge/C Sharp%20-%231572B6.svg?&style=for-the-badge&logo=CSharp&logoColor=white" />&nbsp;&nbsp; 
  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Go%20-%231572B6.svg?&style=for-the-badge&logo=Go&logoColor=white" />&nbsp;&nbsp;
  
  **Frameworks** <br>
   <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
