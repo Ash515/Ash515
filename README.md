@@ -73,6 +73,11 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
   </a>
  <a href="https://theyoungtech.medium.com/">
     <img src="https://img.shields.io/badge/Blogs-TheYoungTech_-magenta">
+  </a>
+  
+  
+     
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ashwinkumarramasamy" target="_blank">Follow on LinkedIn</a>
 </p>
 
 
