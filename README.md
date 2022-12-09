@@ -10,8 +10,13 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 - 📫 How to reach me: Email - virtuosaashwin@gmail.com
 
 <!--[![Ashwin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ash515&theme=xcode)](https://git.io/Ash515)-->
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=Ash515" alt="Ashwin Kumar" /> 
+<!-- <p align="center">
+ <!--<img src="https://komarev.com/ghpvc/?username=Ash515" alt="Ashwin Kumar" /> 
+</p> -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ash515/count.svg" />
 </p>
 
 
