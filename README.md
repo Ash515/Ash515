@@ -68,12 +68,11 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 | --- | --- |
 | ![Ashwin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ash515) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-
+<!--
 <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ash515&theme=algolia" />
 </a>
-
-
+-->
 
 
 
