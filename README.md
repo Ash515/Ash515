@@ -3,7 +3,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 <br>
 
 - 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
-- 🔭 I’m currently working on **Active Directory System**
+- 🔭 I’m currently working on **Human Resource Management System**
 - 👯 I’m looking to collaborate on **DevOps projects**
 - 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**.
 - 🛠 Real Time Projects - **27**
