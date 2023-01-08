@@ -1,5 +1,5 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **DevOps** and **Python Development** and **JavaScript Development** and In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest to learn something new every day. A good dedicated developer always maintain his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing Skills.
+Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **DevOps**, **Python Development** and **JavaScript Development**. In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest to learn something new every day. A good dedicated developer always maintain his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing Skills.
 <br>
 
 - 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
