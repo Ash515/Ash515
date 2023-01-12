@@ -42,11 +42,11 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" width='50' title='JQuery' alt='JQuery' />
 
  Frameworks<br>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" width='50' title='JQuery' alt='JQuery' />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-original.svg" width='50' title='JQuery' alt='JQuery' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" width='50' title='Flask' alt='Flask' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" width='50' title='JQuery' alt='JQuery' />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width='50' title='JQuery' alt='JQuery' />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ember/ember-original.svg" width='50' title='Ember JS' alt='Ember JS' />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vue/vue-original.svg" width='50' title='Vue' alt='Vue' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ember/ember-original-wordmark.svg" width='50' title='Ember JS' alt='Ember JS' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" width='50' title='Vue' alt='Vue' />
   
   <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react js%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
