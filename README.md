@@ -31,18 +31,23 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" width='50' title='C' alt='C' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" width='50' title='C++' alt='C++' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" width='50' title='C#' alt='C#' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" width='50' title='HTML5' alt='HTML5' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width='50' title='HTML5' alt='HTML5' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width='50' title='HTML5' alt='HTML5' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg" width='50' title='HTML5' alt='HTML5' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" width='50' title='HTML5' alt='HTML5' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" width='50' title='Go' alt='Go' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width='50' title='JavaScript' alt='JavaScript' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width='50' title='Php' alt='Php' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg" width='50' title='Ruby' alt='Ruby' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" width='50' title='Bashscript' alt='BashScript' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" width='50' title='HTML5' alt='HTML5' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" width='50' title='HTML5' alt='HTML5' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" width='50' title='HTML5' alt='HTML5' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" width='50' title='HTML5' alt='HTML5' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" width='50' title='CSS3' alt='CSS#' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" width='50' title='SASS' alt='SASS' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" width='50' title='JQuery' alt='JQuery' />
 
- **Frameworks** <br>
-  <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
+ Frameworks<br>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" width='50' title='JQuery' alt='JQuery' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-original.svg" width='50' title='JQuery' alt='JQuery' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width='50' title='JQuery' alt='JQuery' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ember/ember-original.svg" width='50' title='Ember JS' alt='Ember JS' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vue/vue-original.svg" width='50' title='Vue' alt='Vue' />
+  
   <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react js%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ember js%20-%2300D9FF.svg?&style=for-the-badge&logo=ember.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
