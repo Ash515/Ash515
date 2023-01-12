@@ -70,17 +70,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-original.svg" width='50' title='Vue' alt='Vue' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original.svg" width='50' title='Apache' alt='Apache' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tomcat/tomcat-original.svg" width='50' title='tomcat' alt='tomcat' />
- 
-
-
- <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jenkins%20-%231572B6.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Postman%20-%231572B6.svg?&style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
-  
-</p>
+ </p>
 
 <h2 align="center"> Github Statistics </h2>
 
