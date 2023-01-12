@@ -30,17 +30,12 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" width='50' title='Java' alt='Java' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" width='50' title='C' alt='C' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" width='50' title='C++' alt='C++' />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" width='50' title='C#' alt='C#' />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" width='50' title='HTML5' alt='HTML5' />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width='50' title='HTML5' alt='HTML5' />
- <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=yellow" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/C Lang%20-%231572B6.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp; 
- <img src="https://img.shields.io/badge/C++ Lang%20-%231572B6.svg?&style=for-the-badge&logo=C++&logoColor=white" />&nbsp;&nbsp; 
- <img src="https://img.shields.io/badge/C Sharp%20-%231572B6.svg?&style=for-the-badge&logo=CSharp&logoColor=white" />&nbsp;&nbsp; 
- <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Go%20-%231572B6.svg?&style=for-the-badge&logo=Go&logoColor=white" />&nbsp;&nbsp;
- 
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" width='50' title='C#' alt='C#' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" width='50' title='HTML5' alt='HTML5' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width='50' title='HTML5' alt='HTML5' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg" width='50' title='HTML5' alt='HTML5' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" width='50' title='HTML5' alt='HTML5' />
+
  **Frameworks** <br>
   <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
