@@ -25,7 +25,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 <h2 align="center"> Technologies </h2>
 <p align="left">
  
- Programming Languages<br>
+**Programming Languages**<br><br>
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width='50' title='Python' alt='Python' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" width='50' title='Java' alt='Java' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" width='50' title='C' alt='C' />
@@ -40,30 +40,39 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" width='50' title='CSS3' alt='CSS#' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" width='50' title='SASS' alt='SASS' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" width='50' title='JQuery' alt='JQuery' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/handlebars/handlebars-original.svg" width='50' title='Handlebars' alt='Handlebars' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" width='50' title='JQuery' alt='JQuery' />
+ 
 
- Frameworks<br>
+ **Frameworks**<br><br>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" width='50' title='Flask' alt='Flask' />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" width='50' title='JQuery' alt='JQuery' />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width='50' title='JQuery' alt='JQuery' />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ember/ember-original-wordmark.svg" width='50' title='Ember JS' alt='Ember JS' />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" width='50' title='Vue' alt='Vue' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" width='50' title='Vue' alt='Vue' />
   
-  <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react js%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ember js%20-%2300D9FF.svg?&style=for-the-badge&logo=ember.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Vue js%20-%231572B6.svg?&style=for-the-badge&logo=Vue.js&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ **Databases languages and Platforms** <br><br>
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlalchemy/sqlalchemy-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" width='50' title='Vue' alt='Vue' />
  
  
- **Databases languages and Platforms** <br>
-  <img src="https://img.shields.io/badge/SQL%20-%231572B6.svg?&style=for-the-badge&logo=Sql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GraphQl%20-%231572B6.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/postgres%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+ **DevOps Platforms** <br><br>
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain-wordmark.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nginx/nginx-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original.svg" width='50' title='Apache' alt='Apache' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tomcat/tomcat-original.svg" width='50' title='tomcat' alt='tomcat' />
  
- **DevOps Platforms** <br>
-  <img src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp; 
+
+
  <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jenkins%20-%231572B6.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;
