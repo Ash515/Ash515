@@ -75,7 +75,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 <h2 align="center"> Github Statistics </h2>
 
 
-| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ash515&layout=compact&hide=html&theme=jolly" alt="Ash515" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash515&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" /> |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ash515&layout=compact&hide=html&theme=jolly" alt="Ash515" />| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ash515&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" /> |
 | --- | --- |
 | ![Ashwin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ash515) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
