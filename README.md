@@ -26,13 +26,13 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 <p align="left">
  
  Programming Languages<br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width='50' title='Python' alt='Python' />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width='50' title='Java' alt='Java' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width='50' title='Python' alt='Python' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" width='50' title='Java' alt='Java' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" width='50' title='C' alt='C' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" width='50' title='C++' alt='C++' />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" width='50' title='C#' alt='C#' />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-line.svg" width='50' title='HTML5' alt='HTML5' />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-line.svg" width='50' title='HTML5' alt='HTML5' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" width='50' title='HTML5' alt='HTML5' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width='50' title='HTML5' alt='HTML5' />
  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=yellow" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/C Lang%20-%231572B6.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp; 
