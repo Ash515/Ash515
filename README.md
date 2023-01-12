@@ -33,9 +33,13 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" width='50' title='C#' alt='C#' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" width='50' title='HTML5' alt='HTML5' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width='50' title='HTML5' alt='HTML5' />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width='50' title='HTML5' alt='HTML5' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width='50' title='HTML5' alt='HTML5' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg" width='50' title='HTML5' alt='HTML5' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" width='50' title='HTML5' alt='HTML5' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" width='50' title='HTML5' alt='HTML5' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" width='50' title='HTML5' alt='HTML5' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" width='50' title='HTML5' alt='HTML5' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" width='50' title='HTML5' alt='HTML5' />
 
  **Frameworks** <br>
   <img src="https://img.shields.io/badge/flask%20-%231572B6.svg?&style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;
