@@ -26,6 +26,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 <p align="left">
  
  Programming Languages<br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width='50' title='HTML5' alt='HTML5' />
  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=yellow" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/C Lang%20-%231572B6.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp; 
