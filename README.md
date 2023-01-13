@@ -62,14 +62,14 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
  
  
  **DevOps Platforms** <br><br>
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width='50' title='Vue' alt='Vue' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" width='50' title='Vue' alt='Vue' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain-wordmark.svg" width='50' title='Vue' alt='Vue' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nginx/nginx-original.svg" width='50' title='Vue' alt='Vue' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" width='50' title='Vue' alt='Vue' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width='50' title='Git' alt='Git' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" width='50' title='Docker' alt='Docker' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain-wordmark.svg" width='50' title='Kubernetes' alt='Kubernetes' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nginx/nginx-original.svg" width='50' title='NGinx' alt='NGinx' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" width='50' title='Jenkins' alt='Jenkins' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-original.svg" width='50' title='Heroku' alt='Heroku' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original.svg" width='50' title='Apache' alt='Apache' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tomcat/tomcat-original.svg" width='50' title='tomcat' alt='tomcat' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tomcat/tomcat-original.svg" width='50' title='Tomcat' alt='tomcat' />
  </p>
 
 <h2 align="center"> Github Statistics </h2>
