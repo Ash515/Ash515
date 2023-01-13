@@ -55,10 +55,10 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
  **Databases languages and Platforms** <br><br>
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width='50' title='MySql' alt='MySql' />
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" width='50' title='Postgresql' alt='Postgresql' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" width='50' title='Vue' alt='Vue' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" width='50' title='Vue' alt='Vue' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlalchemy/sqlalchemy-original.svg" width='50' title='Vue' alt='Vue' />
- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" width='50' title='Vue' alt='Vue' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" width='50' title='MongoDB' alt='MongoDB' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" width='50' title='SQlite' alt='SQlite' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlalchemy/sqlalchemy-original.svg" width='50' title='SQLAlchemy' alt='SQLAlchemy' />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" width='50' title='Oracle' alt='Oracle' />
  
  
  **DevOps Platforms** <br><br>
