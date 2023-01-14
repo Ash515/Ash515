@@ -50,7 +50,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width='50' title='JQuery' alt='JQuery' />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ember/ember-original-wordmark.svg" width='50' title='Ember JS' alt='Ember JS' />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" width='50' title='Vue' alt='Vue' />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" width='50' title='Vue' alt='Vue' />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" width='50' title='Nodejs' alt='Nodejs' />
   
  **Databases languages and Platforms** <br><br>
  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width='50' title='MySql' alt='MySql' />
