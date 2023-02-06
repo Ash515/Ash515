@@ -5,7 +5,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 He is building software suits for various domain under the one umbrella called **Crafts** 
 
 - 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
-- 🔭 I’m currently working on **Human Resource Management Software**
+- 🔭 I’m currently working on **Human Resource Management Software** under Crafts 
 - 👯 I’m looking to collaborate on **DevOps projects**
 - 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**.
 - 🛠 Real Time Projects - **27**
