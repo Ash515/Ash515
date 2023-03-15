@@ -81,12 +81,10 @@ He is building software suits for various domain under the one umbrella called <
 | --- | --- |
 | ![Ashwin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ash515) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-<!--
-<a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ash515&theme=algolia" />
-</a>
--->
 
+### My Badges
+
+[![@praveen's Holopin board](https://holopin.me/praveen)](https://holopin.io/@ashwin515)
 
 
 ## Connect with Me 🤝🏻
