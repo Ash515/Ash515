@@ -84,7 +84,7 @@ He is building software suits for various domain under the one umbrella called <
 
 ### My Badges
 
-[![@praveen's Holopin board](https://holopin.me/praveen)](https://holopin.io/@ashwin515)
+[![@Ashwin's Holopin board](https://holopin.me/ashwin515)](https://holopin.io/@ashwin515)
 
 
 ## Connect with Me 🤝🏻
