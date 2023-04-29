@@ -7,7 +7,7 @@ He is building software suits for various domain under the one umbrella called <
 
 - 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
 - 🔭 I’m currently working on **Human Resource Management Software** under ACrafts 
-- 👯 I’m looking to collaborate on **DevOps projects**
+- 👯 I’m looking to collaborate on **Network Security projects**
 - 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**.
 - 🛠 Real Time Projects - **27**
 - 📫 How to reach me: Email - virtuosoashwin@gmail.com
