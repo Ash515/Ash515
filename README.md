@@ -87,7 +87,7 @@ He is building software suits for various domain under the one umbrella called <
 
 [![@Ashwin's Holopin board](https://holopin.me/ashwin515)](https://holopin.io/@ashwin515)
 
-[![Ashwin515's GitHub | Stats](https://stats.quine.sh/Ashwin515/github?theme=dark)](https://quine.sh)
+[![Ashwin515's GitHub | Stats](https://stats.quine.sh/Ashwin515/github?theme=dark)](https://quine.sh) [![Ashwin515's GitHub | Languages Over Time](https://stats.quine.sh/Ashwin515/languages-over-time?theme=dark)](https://quine.sh)
 ## Connect with Me 🤝🏻
 
 <p align="center"><br/>
