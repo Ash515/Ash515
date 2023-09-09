@@ -1,15 +1,15 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **DevOps**, **Python Development** and **JavaScript Development**. In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest in learning something new everyday. A good dedicated developer always maintains his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing skills.
+Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **Full Stack Developmnet** with **DevOps** and **Cyber Security**. In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest in learning something new everyday. A good dedicated developer and technical trainer always maintains his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing skills.
 <br>
 
-He is building software suites for various domain under the one umbrella called <font size="10">**ACrafts**</font>
+**He is building software suites for various domain under the one umbrella called <font size="16">**ACrafts**</font>**
 
 
 - 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
-- 🔭 I’m currently working on **Human Resource Management Software** under ACrafts 
-- 👯 I’m looking to collaborate on **Cyber Security projects**
-- 💬 Ask me about **Python Full Stack Development**, **JavaScript Full Stack Development**, **Data Structures and Algorithms**.
-- 🛠 Real Time Projects - **27**
+- 🔭 I’m currently working on **Human Resource Management Software Suite**.
+- 👯 I’m looking to collaborate on **IAM projects**.
+- 💬 Ask me about **DevOps**, **Cyber Security** and **Full Stack Developement**.
+- 🛠 Real Time Projects - **27**.
 - 📫 How to reach me: Email - virtuosoashwin@gmail.com
 
 <!--[![Ashwin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ash515&theme=xcode)](https://git.io/Ash515)-->
