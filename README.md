@@ -1,5 +1,5 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **Full Stack Developmnet** with **DevOps** and **Cyber Security**. In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest in learning something new everyday. A good dedicated developer and technical trainer always maintains his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing skills.
+Ashwin is a young tech fellow having a good demonstrated work experience on tech domain like **Full Stack Development** with **Web Security**. In non-technical background, he's having hands-on experience in **Digital Marketing**. He always has a keen interest in learning something new everyday. A good dedicated developer and technical trainer always maintains his time management properly. He had a flair for problem-solving, Analytics, leadership quality and good Content Writing skills.
 <br>
 
 **He is building software suites for various domain under the one umbrella called <font size="16">**ACrafts**</font>**
