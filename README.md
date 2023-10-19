@@ -83,7 +83,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 | ![Ashwin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ash515) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
 
-### My Badges
+### My Badges ❤️
 
 [![@Ashwin's Holopin board](https://holopin.me/ashwin515)](https://holopin.io/@ashwin515)
 
