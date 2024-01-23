@@ -8,7 +8,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 - 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
 - 🔭 I’m currently working on **Human Resource Management Software Suite**.
 - 👯 I’m looking to collaborate on **IAM projects**.
-- 💬 Ask me about **DevOps**, **Cyber Security** and **Full Stack Developement**.
+- 💬 Ask me about **DevOps** and **Full Stack Developement**.
 - 🛠 Real Time Projects - **27**.
 - 📫 How to reach me: Email - aaashwin515@gmail.com
 
