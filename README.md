@@ -6,10 +6,10 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 
 
 - 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
-- 🔭 I’m currently working on **Human Resource Management Software Suite**.
+- 🔭 I’m currently working on **Human Resource Management Software**.
 - 👯 I’m looking to collaborate on **Web Security Projects**.
-- 💬 Ask me about **Full Stack Developement**.
-- 🛠 Real Time Projects - **27**.
+- 💬 Ask me about **Full Stack Python and Java Developement**.
+- 🛠 Engineered Products - **27**.
 - 📫 How to reach me: Email - aaashwin515@gmail.com
 
 <!--[![Ashwin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ash515&theme=xcode)](https://git.io/Ash515)-->
