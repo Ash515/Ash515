@@ -88,8 +88,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
 [![@Ashwin's Holopin board](https://holopin.me/ashwin515)](https://holopin.io/@ashwin515)
 
 [![Ashwin515's GitHub | Stats](https://stats.quine.sh/Ashwin515/github?theme=dark)](https://quine.sh) 
-[![Ashwin515's GitHub | Languages Over Time](https://stats.quine.sh/Ashwin515/languages-over-time?theme=dark)](https://quine.sh)
-[![Ashwin515's GitHub | Topics Over Time](https://stats.quine.sh/Ashwin515/topics-over-time?theme=dark)](https://quine.sh)
+[![Ashwin515's GitHub | Languages Over Time](https://stats.quine.sh/Ashwin515/languages-over-time?theme=dark)](https://quine.sh) [![Ashwin515's GitHub | Topics Over Time](https://stats.quine.sh/Ashwin515/topics-over-time?theme=dark)](https://quine.sh)
 ## Connect with Me 🤝🏻
 
 <p align="center"><br/>
@@ -105,7 +104,7 @@ Ashwin is a young tech fellow having a good demonstrated work experience on tech
   
   
      
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ashwinkumarramasamy" target="_blank">Follow on LinkedIn</a>
-</p>
+<!--<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ashwinkumarramasamy" target="_blank">Follow on LinkedIn</a>
+</p>-->
 
 
