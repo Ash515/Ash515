@@ -8,19 +8,22 @@ Hello! I'm Ashwin, a passionate Full Stack Web Developer and Web Security Enthus
 - **Continuous Learning**: Always eager to expand my knowledge. I regularly participate in coding challenges, hackathons, mentorships and online courses to stay updated with the latest trends and advancements in technology.
 
 
-- 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
+<!--
 - 🔭 I’m currently working on **Human Resource Management Software**.
 - 👯 I’m looking to collaborate on **Web Security Projects**.
 - 💬 Ask me about **Full Stack Python,Java Development and Web Security**.
 - 🛠 Engineered Products - **28**.
 - 📫 How to reach me: Email - ashwinkumar.rs@outlook.com
+-->
 
 <!--[![Ashwin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ash515&theme=xcode)](https://git.io/Ash515)-->
 <!-- <p align="center">
  <!--<img src="https://komarev.com/ghpvc/?username=Ash515" alt="Ashwin Kumar" /> 
 </p> -->
 
-
+### 📫 How to reach me
+- **Email** - ashwinkumar.rs@outlook.com
+- **Linkedin** - [Ashwin Kumar Ramasamy](https://www.linkedin.com/in/ashwinkumarramasamy/)
 
 <p align="center"> 
    Visitor count<br>
