@@ -1,5 +1,5 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hello! I'm Ashwin, a passionate Full Stack Web Developer and Web Security Enthusiast. With a strong background in developing robust and scalable web applications, I thrive on solving complex problems and continuously learning new technologies. My journey in tech has been driven by a relentless curiosity and a commitment to creating secure and efficient digital solutions.
+ I'm Ashwin, a passionate Full Stack Web Developer and Web Security Enthusiast. With a strong background in developing robust and scalable web applications, I thrive on solving complex problems and continuously learning new technologies. My journey in tech has been driven by a relentless curiosity and a commitment to creating secure and efficient digital solutions.
 <br>
 
 ### 🧑‍💻 What I Do
