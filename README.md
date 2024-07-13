@@ -2,7 +2,10 @@
 Hello! I'm Ashwin, a passionate Full Stack Web Developer and Web Security Enthusiast. With a strong background in developing robust and scalable web applications, I thrive on solving complex problems and continuously learning new technologies. My journey in tech has been driven by a relentless curiosity and a commitment to creating secure and efficient digital solutions.
 <br>
 
-**He is building software suites for various domains under the one umbrella called <font size="16">**ACrafts**</font>**
+### What I Do
+- **Full Stack Development**: Proficient in both front-end and back-end technologies. I work with languages and frameworks such as JavaScript, React, Node.js, Express,Flask,Servlets and more to build dynamic and responsive web applications.
+- **Web Security**: Dedicated to understanding and implementing the best security practices. I am constantly exploring new methods to protect web applications from vulnerabilities and threats.
+- **Continuous Learning**: Always eager to expand my knowledge. I regularly participate in coding challenges, hackathons, mentorships and online courses to stay updated with the latest trends and advancements in technology.
 
 
 - 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
