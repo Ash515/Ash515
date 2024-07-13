@@ -7,8 +7,8 @@ Ashwin is a young tech fellow with demonstrated work experience in the tech doma
 
 - 🌱 I’m an undergraduate in **B.Tech in Information Technology.**
 - 🔭 I’m currently working on **Human Resource Management Software**.
-- 👯 I’m looking to collaborate on **IAM Projects**.
-- 💬 Ask me about **Full Stack Python and Java Development**.
+- 👯 I’m looking to collaborate on **Web Security Projects**.
+- 💬 Ask me about **Full Stack Python,Java Development and Web Security**.
 - 🛠 Engineered Products - **28**.
 - 📫 How to reach me: Email - ashwinkumar.rs@outlook.com
 
