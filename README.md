@@ -25,10 +25,10 @@
 - **Email** - ashwinkumar.rs@outlook.com
 - **Linkedin** - [Ashwin Kumar Ramasamy](https://www.linkedin.com/in/ashwinkumarramasamy/)
 
-<p align="center"> 
+<!-- <p align="center"> 
    Visitor count<br>
   <img src="https://profile-counter.glitch.me/ash515/count.svg" />
-</p>
+</p> -->
 
 
 <h2 align="center"> Technologies </h2>
